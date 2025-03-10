@@ -1,0 +1,16 @@
+{
+      "name": "kml-file-viewer",
+      "version": "1.0.0",
+      "private": true,
+      "dependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "react-leaflet": "^3.0.0",
+        "leaflet": "^1.7.1",
+        "xml2js": "^0.4.23"
+      },
+      "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build"
+      }
+    }
